@@ -1,0 +1,37 @@
+export const roomData = [
+  {
+    id: 1,
+    name:"",
+    description:"",
+    price: 0,
+    image: "",      
+  },
+   {
+    id: 2,
+    name:"",
+    description:"",
+    price: 0,
+    image: "",      
+  },
+   {
+    id: 3,
+    name:"",
+    description:"",
+    price: 0,
+    image: "",      
+  },
+   {
+    id: 4,
+    name:"",
+    description:"",
+    price: 0,
+    image: "",      
+  },
+   {
+    id: 5,
+    name:"",
+    description:"",
+    price: 0,
+    image: "",      
+  }
+];
